@@ -12,6 +12,7 @@ RUN apt update && apt upgrade -y && apt install -y tzdata \
   sudo \
   curl \
   micro \
+  bat \
   wget \
   zsh \
   tmux \
